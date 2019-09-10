@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismOutlook", "PrismOutlook\PrismOutlook.csproj", "{10020160-698C-4361-974D-A5E3D7240D89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{297DF5A9-2BF9-47BE-A7E8-2A9FE25A7DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismOutlook.Modules.Mail", "Modules\PrismOutlook.Modules.Mail\PrismOutlook.Modules.Mail.csproj", "{91BEF40E-57AC-4F88-A46D-2460B0167854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismOutlook.Modules.Contacts", "Modules\PrismOutlook.Modules.Contacts\PrismOutlook.Modules.Contacts.csproj", "{F3BE9FB9-942A-48FD-A2D5-DDAA7D3113F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismOutlook.Modules.Calendar", "Modules\PrismOutlook.Modules.Calendar\PrismOutlook.Modules.Calendar.csproj", "{2F08FC95-4DCB-400A-BCC5-FEB455491F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrismOutlook.Core", "PrismOutlook.Core\PrismOutlook.Core.csproj", "{673A3B11-23B5-4544-947C-12A3B7FCB852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10020160-698C-4361-974D-A5E3D7240D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10020160-698C-4361-974D-A5E3D7240D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10020160-698C-4361-974D-A5E3D7240D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10020160-698C-4361-974D-A5E3D7240D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BEF40E-57AC-4F88-A46D-2460B0167854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BEF40E-57AC-4F88-A46D-2460B0167854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BEF40E-57AC-4F88-A46D-2460B0167854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BEF40E-57AC-4F88-A46D-2460B0167854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BE9FB9-942A-48FD-A2D5-DDAA7D3113F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BE9FB9-942A-48FD-A2D5-DDAA7D3113F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BE9FB9-942A-48FD-A2D5-DDAA7D3113F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BE9FB9-942A-48FD-A2D5-DDAA7D3113F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F08FC95-4DCB-400A-BCC5-FEB455491F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F08FC95-4DCB-400A-BCC5-FEB455491F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F08FC95-4DCB-400A-BCC5-FEB455491F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F08FC95-4DCB-400A-BCC5-FEB455491F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673A3B11-23B5-4544-947C-12A3B7FCB852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673A3B11-23B5-4544-947C-12A3B7FCB852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673A3B11-23B5-4544-947C-12A3B7FCB852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673A3B11-23B5-4544-947C-12A3B7FCB852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{91BEF40E-57AC-4F88-A46D-2460B0167854} = {297DF5A9-2BF9-47BE-A7E8-2A9FE25A7DDB}
+		{F3BE9FB9-942A-48FD-A2D5-DDAA7D3113F8} = {297DF5A9-2BF9-47BE-A7E8-2A9FE25A7DDB}
+		{2F08FC95-4DCB-400A-BCC5-FEB455491F40} = {297DF5A9-2BF9-47BE-A7E8-2A9FE25A7DDB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E61528-108A-4CD2-94DA-4EB05EDFCD49}
+	EndGlobalSection
+EndGlobal

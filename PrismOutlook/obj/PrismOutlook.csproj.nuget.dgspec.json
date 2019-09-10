@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\Modules\\PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\Modules\\PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj",
+        "projectName": "PrismOutlook.Modules.Mail",
+        "projectPath": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\Modules\\PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj",
+        "packagesPath": "C:\\Users\\ofir pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\Modules\\PrismOutlook.Modules.Mail\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ofir pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj": {
+                "projectPath": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Core": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
+            },
+            "Prism.Unity": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
+            },
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj",
+        "projectName": "PrismOutlook.Core",
+        "projectPath": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.csproj",
+        "projectName": "PrismOutlook",
+        "projectPath": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\PrismOutlook\\PrismOutlook.csproj",
+        "packagesPath": "C:\\Users\\ofir pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\PrismOutlook\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ofir pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\Modules\\PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj": {
+                "projectPath": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\Modules\\PrismOutlook.Modules.Mail\\PrismOutlook.Modules.Mail.csproj"
+              },
+              "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj": {
+                "projectPath": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\PrismOutlook.Core\\PrismOutlook.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Core": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
+            },
+            "Prism.Unity": {
+              "target": "Package",
+              "version": "[7.2.0.1367, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

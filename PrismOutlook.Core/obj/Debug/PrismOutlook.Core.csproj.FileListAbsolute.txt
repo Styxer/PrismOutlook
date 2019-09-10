@@ -1,0 +1,7 @@
+C:\Users\ofir pc\source\repos\PrismOutlook\PrismOutlook.Core\bin\Debug\PrismOutlook.Core.dll
+C:\Users\ofir pc\source\repos\PrismOutlook\PrismOutlook.Core\bin\Debug\PrismOutlook.Core.pdb
+C:\Users\ofir pc\source\repos\PrismOutlook\PrismOutlook.Core\obj\Debug\PrismOutlook.Core.Properties.Resources.resources
+C:\Users\ofir pc\source\repos\PrismOutlook\PrismOutlook.Core\obj\Debug\PrismOutlook.Core.csproj.GenerateResource.cache
+C:\Users\ofir pc\source\repos\PrismOutlook\PrismOutlook.Core\obj\Debug\PrismOutlook.Core.csproj.CoreCompileInputs.cache
+C:\Users\ofir pc\source\repos\PrismOutlook\PrismOutlook.Core\obj\Debug\PrismOutlook.Core.dll
+C:\Users\ofir pc\source\repos\PrismOutlook\PrismOutlook.Core\obj\Debug\PrismOutlook.Core.pdb

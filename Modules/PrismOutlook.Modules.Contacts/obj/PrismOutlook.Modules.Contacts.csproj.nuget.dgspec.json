@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\Modules\\PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\Modules\\PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\Modules\\PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj",
+        "projectName": "PrismOutlook.Modules.Contacts",
+        "projectPath": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\Modules\\PrismOutlook.Modules.Contacts\\PrismOutlook.Modules.Contacts.csproj",
+        "packagesPath": "C:\\Users\\ofir pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ofir pc\\source\\repos\\PrismOutlook\\Modules\\PrismOutlook.Modules.Contacts\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ofir pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Prism.Wpf": {
+              "target": "Package",
+              "version": "[7.1.0.431, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
